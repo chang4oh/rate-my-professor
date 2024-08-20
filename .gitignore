@@ -10,6 +10,7 @@
 # testing
 /coverage
 
+# virtual env
 venv/
 
 # next.js
@@ -37,6 +38,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-*.ipynb
-*.ipynb
-load.ipynb
+
